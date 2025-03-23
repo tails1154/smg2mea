@@ -1,0 +1,21 @@
+{
+  "base-file": "\/mnt\/chromeos\/removable\/SD Card\/wbfs\/SUPER MARIO GALAXY MORE [SB4E01]\/SB4E01.wbfs",
+  "display-name": "preset",
+  "riivolution": {
+    "patches": [
+      {
+        "options": [
+          {
+            "choice": 1,
+            "option-name": "Enable",
+            "section-name": "SMG2: My Epic Adventure"
+          }
+        ],
+        "root": "\/home\/tails1154\/galaxy\/GLETest",
+        "xml": "\/home\/tails1154\/galaxy\/GLETest\/riivolution\/smg2mea-u.xml"
+      }
+    ]
+  },
+  "type": "dolphin-game-mod-descriptor",
+  "version": 1
+}
