@@ -14,3 +14,9 @@ or
 
 
 download the zip and copy all of it to the root of your sd card
+
+
+## Common Issues
+
+The game hangs when I tell it to make a new save file!
+Remove the `<savegame external="SaveGame" clone="false" />` part from the riivolution/smg2mea-u.xml file
