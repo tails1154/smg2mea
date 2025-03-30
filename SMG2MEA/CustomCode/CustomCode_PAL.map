@@ -125,45 +125,6 @@ Kamek Binary Map
   00002AB0 00002C isPlayerSkating__2ptFv
   00002AF8 000030 setMessageArg__2ptFP15TalkMessageCtrlPCw
   00002B28 0000D0 setTextBoxArgStringNumberFontRecursive__2ptFP11LayoutActorPCcUsl
-<<<<<<< HEAD
-  00002C14 0000AC checkIfDiveAllowed__Fv
-  00002CFC 000000 __ctor_loc
-  00002CFC 000000 _e_text
-  00002CFC 000000 _f_ctors
-  00002D04 000000 __ctor_end
-  00002D04 000000 _e_ctors
-  00002D04 000000 _f_dtors
-  00002D04 000000 _e_dtors
-  00002D04 000000 _f_rodata
-  00002E24 000000 _e_rodata
-  00002E24 000000 _f_data
-  00002E5C 000038 __vt__9TrollArea
-  00002FF0 000084 __vt__Q22pt15MorphItemNeoFoo
-  00003074 000084 __vt__Q22pt15MorphItemNeoIce
-  00003140 000010 __vt__Q32pt16NrvCrystalSwitch11NrvSwitchUp
-  00003150 000010 __vt__Q32pt16NrvCrystalSwitch5NrvOn
-  00003160 000010 __vt__Q32pt16NrvCrystalSwitch13NrvSwitchDown
-  00003170 000010 __vt__Q32pt16NrvCrystalSwitch6NrvOff
-  00003180 000070 __vt__Q22pt13CrystalSwitch
-  00003280 000010 __vt__Q213NrvCrystalBox8NrvBreak
-  00003290 000010 __vt__Q213NrvCrystalBox7NrvWait
-  000032A0 000070 __vt__10CrystalBox
-  00003310 000004 tripleJumpValue
-  0000334C 000070 __vt__Q22pt16PowerStarSpawner
-  00003400 00002C __vt__Q22pt13BlueChipGroup
-  0000342C 000070 __vt__Q22pt8BlueChip
-  0000363C 000000 _e_data
-  0000363C 000001 gIsFileSelectUsable
-  00003640 000004 sInstance__Q32pt16NrvCrystalSwitch6NrvOff
-  00003644 000004 sInstance__Q32pt16NrvCrystalSwitch13NrvSwitchDown
-  00003648 000004 sInstance__Q32pt16NrvCrystalSwitch5NrvOn
-  0000364C 000004 sInstance__Q32pt16NrvCrystalSwitch11NrvSwitchUp
-  00003650 000004 sInstance__Q213NrvCrystalBox7NrvWait
-  00003654 000004 sInstance__Q213NrvCrystalBox8NrvBreak
-  00003658 000001 isGPJ
-  0000365C 000004 currentFovModifier
-  00003660 000004 diveState
-=======
   00002BF8 000000 __ctor_loc
   00002BF8 000000 _e_text
   00002BF8 000000 _f_ctors
@@ -199,4 +160,3 @@ Kamek Binary Map
   00003538 000004 sInstance__Q213NrvCrystalBox8NrvBreak
   0000353C 000001 isGPJ
   00003540 000004 currentFovModifier
->>>>>>> parent of 17e6bf9 (Welcome to: Will It Crash with tails1154!)
