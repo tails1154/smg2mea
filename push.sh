@@ -1,1 +1,1 @@
-commit_msg=$(kdialog --inputbox "Enter commit message:") && git init && git add . && git commit -m "$commit_msg" && git push || true && cd SMG2MEA && dolphin-emu -b preset.json && cd .. && kdialog --msgbox "All tasks completed successfully!" --title "Process Complete"
+commit_msg=$(kdialog --inputbox "Enter commit message:") && git init && git add . && git commit -m "$commit_msg" && git push || true && cd SMG2MEA && kdialog --yesno "Start dolphin?" && dolphin-emu -b preset.json && cd ..
